@@ -1,3 +1,5 @@
+
+
 class Hospital {
   constructor(name, location, employees, patients) {
     this.name = name
