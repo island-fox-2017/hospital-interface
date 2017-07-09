@@ -1,0 +1,22 @@
+{
+  "name": "hospital-interface",
+  "version": "1.0.0",
+  "description": "",
+  "main": "controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/island-fox-2017/hospital-interface.git"
+  },
+  "author": "gani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/island-fox-2017/hospital-interface/issues"
+  },
+  "homepage": "https://github.com/island-fox-2017/hospital-interface#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1"
+  }
+}
