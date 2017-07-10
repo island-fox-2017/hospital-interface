@@ -1,0 +1,22 @@
+{
+  "name": "ahfa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hospital.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happy-fox-2017/hospital-interface.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happy-fox-2017/hospital-interface/issues"
+  },
+  "homepage": "https://github.com/happy-fox-2017/hospital-interface#readme",
+  "dependencies": {
+    "cli-table2": "^0.2.0"
+  }
+}
